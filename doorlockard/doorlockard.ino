@@ -10,7 +10,7 @@
 #define BLUE_LED D7
 
 const char* ssid = "DataStream_2.4";       
-const char* password = "armmd123!@#";  
+const char* password = "pwddd";  
 
 const char* websocket_host = "192.168.1.6";  
 const int websocket_port = 8080;              
